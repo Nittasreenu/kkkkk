@@ -1,2 +1,1 @@
-git diff is used to know
-the difference b/w two versions of same file.git difference
+git diff
